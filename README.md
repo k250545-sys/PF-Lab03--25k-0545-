@@ -1,6 +1,12 @@
 # PF-Lab03--25k-0545-
-## INTRODUCTION
-My name is Muhammad Umer Farooq 
-### PROGRAMMING INTEREST
-I am now enrolled in cs program
-
+## BIOGRAPHY
+My name is Muhammad Umer Farooq
+# orderlist
+1.name
+2.adress
+3.hobbies
+## unorderlist
+3.hobbies
+1.name
+2.adress
+## * my name is umer
